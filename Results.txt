@@ -1,0 +1,27 @@
+Test data Classification starting for Obama
+Accuracy : 
+0.5771399282419272
+Positive Precision : 
+0.6278586278586279
+Negative Precision : 
+0.5716129032258065
+Positive Recall : 
+0.5189003436426117
+Negative Recall : 
+0.6438953488372093
+Positive class F-Score 0.568203198494826
+Negative class F-Score 0.6056049213943951
+
+Test data Classification starting for Romney
+Accuracy : 
+0.6289473684210526
+Positive Precision : 
+0.6984126984126984
+Negative Precision : 
+0.6431962025316456
+Positive Recall : 
+0.45714285714285713
+Negative Recall : 
+0.846875
+Positive class F-Score 0.5525902668759812
+Negative class F-Score 0.731115107913669
